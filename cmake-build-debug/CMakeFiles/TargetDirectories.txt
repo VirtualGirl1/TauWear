@@ -1,0 +1,3 @@
+/Users/renierminnaar/CLionProjects/TauWear/cmake-build-debug/CMakeFiles/TauWear.dir
+/Users/renierminnaar/CLionProjects/TauWear/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/renierminnaar/CLionProjects/TauWear/cmake-build-debug/CMakeFiles/rebuild_cache.dir
