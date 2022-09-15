@@ -3,4 +3,5 @@ project(TauWear)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(TauWear main.cpp)
+include_directories(lib)
+add_executable(TauWear src/main.cpp)
